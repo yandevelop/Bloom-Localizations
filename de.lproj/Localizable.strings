@@ -10,7 +10,7 @@
 "SHOW_IN_DND" = "In Nicht-Stören anzeigen";
 "BLACKOUT" = "Blackout";
 "WAKE_SCREEN_AFTER_BLACKOUT" = "Bildschirm nach Blackout aktivieren";
-"WAKE_SCREEN_AFTER_BLACKOUT_FOOTER" = "Wenn gesperrt, wird der Bildschirm nur nach der Animation aktiviert";
+"WAKE_SCREEN_AFTER_BLACKOUT_FOOTER" = "Wenn gesperrt, wird der Bildschirm erst nach der Animation aktiviert";
 "BLACKOUT_FOOTER" = "Wenn gesperrt, bleibt der Bildschirm nach der Animation ausgeschaltet";
 "REPEAT" = "Wiederhole";
 "TIMES" = "mal";
