@@ -32,3 +32,5 @@
 "OK" = "OK";
 "TRY_AGAIN" = "Réessayer";
 "REVALIDATE" = "Revérifier";
+"SHOW_IN_FRONTMOST_APP" = "Afficher dans l'app active";
+"VISIBILITY" = "Visibilitée";

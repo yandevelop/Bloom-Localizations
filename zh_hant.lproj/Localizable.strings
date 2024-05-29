@@ -32,3 +32,5 @@
 "UNIVERSAL" = "主畫面與App內部";
 "WAKE_SCREEN_AFTER_BLACKOUT" = "在燈火管制後喚醒螢幕";
 "WAKE_SCREEN_AFTER_BLACKOUT_FOOTER" = "當裝置在鎖定畫面時，螢幕會在Bloom動畫結束後被喚醒，";
+"SHOW_IN_FRONTMOST_APP" = "";
+"VISIBILITY" = "";

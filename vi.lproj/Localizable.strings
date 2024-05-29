@@ -32,3 +32,5 @@
 "OK" = "OK";
 "TRY_AGAIN" = "Thử lại";
 "REVALIDATE" = "Xác thực lại";
+"SHOW_IN_FRONTMOST_APP" = "";
+"VISIBILITY" = "";

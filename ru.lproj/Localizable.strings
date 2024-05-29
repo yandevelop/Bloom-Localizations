@@ -32,3 +32,5 @@
 "OK" = "OK";
 "TRY_AGAIN" = "Попробовать снова";
 "REVALIDATE" = "Проверить ещё раз";
+"SHOW_IN_FRONTMOST_APP" = "";
+"VISIBILITY" = "";

@@ -32,3 +32,5 @@
 "OK" = "نعم";
 "TRY_AGAIN" = "حاول ثانية";
 "REVALIDATE" = "إعادة التحقق";
+"SHOW_IN_FRONTMOST_APP" = "";
+"VISIBILITY" = "";
